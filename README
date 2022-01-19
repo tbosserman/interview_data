@@ -1,0 +1,13 @@
+This just contains some sample data for an interview question:
+        Network IP Address Lookup.
+
+The question is:
+
+Write a program which takes an IP address and looks in a table to find a contact for that IP address.
+
+While the sample data above does not reflect it, the netblocks in the file could overlap so a  “longest match” algorithm must be implemented.
+
+The program should ask the user to type an IP address, lookup that address and print out the net block and contact.
+
+The input file may have comments. Comments start with “#”. Individual lines may also have trailing comments. See the above sample data for examples.
+

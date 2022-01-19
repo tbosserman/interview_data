@@ -1,0 +1,17 @@
+# The following data was assembled from info provided by NetEng and I.T.
+172.24.198.0/24: joe123
+172.24.199.0/24: joe123
+172.24.208.0/21: joe123
+172.24.216.0/22: joe123
+172.23.127.32/27: mary5
+172.23.127.64/26: mary5
+172.23.127.160/27: mary5
+172.26.20.180/32: mary5
+172.19.20.0/23: neteng97
+172.19.104.0/24: neteng97
+172.19.170.0/24: neteng97
+172.20.240.0/22: neteng97
+172.21.240.0/20: neteng97
+172.22.88.0/21: prodsec32 # Not certain this is the correct contact.
+172.25.13.0/24: prodsec32
+172.25.85.0/24: prodsec32
